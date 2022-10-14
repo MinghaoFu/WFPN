@@ -1,0 +1,7 @@
+{
+    "n_resblocks": 32,
+    "n_feats": 256,
+    "res_scale": 0.1,
+
+    "lr": 4e-4
+}
