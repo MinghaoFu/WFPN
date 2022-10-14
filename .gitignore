@@ -1,4 +1,4 @@
-experiment/
+experiment/*
 src/NTIRE
 src/option.py
 src/nohup.out
@@ -6,6 +6,7 @@ src/results
 src/rep_demo.py
 src/reparameterize.py
 src/compare.py
+src/figs
 .vscode
 
 
