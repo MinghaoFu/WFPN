@@ -12,7 +12,7 @@ This code is modified from [EDSR(Pytorch)](https://github.com/sanghyun-son/EDSR-
 We select [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and [Flickr2K](http://cv.snu.ac.kr/research/EDSR/Flickr2K.tar) as our training datasets.
 
 ### Setting hyperparameter in configs
-Basic training and testing configs could be adjusted in *configs/plain.json*. For specifc model, you could customize it in configs/{model}.json
+Basic training and testing configs could be adjusted in *configs/plain.json*. For specifc model, you could customize it in *configs/{model}.json*.
 
 ### Training
 You could change --opt to select training model and config file.
