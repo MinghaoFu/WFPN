@@ -17,6 +17,7 @@ Basic training and testing configs could be adjusted in *configs/plain.json*. Fo
 ### Training
 You could change --opt to select training model and config file.
 > CUDA_VISIBLE_DEVICES=0 python main.py --opt {model}
+
 For instance, if you want to train our WFPN, you only need to set **{model}** as **wfpn**.
 
 ### Testing
