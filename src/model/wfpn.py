@@ -257,4 +257,11 @@ class WFPN(nn.Module):
 
 
 if __name__ == "__main__":
-    pass
+    input = torch.rand(1, 3, 5, 5)
+    net = WFPB(3, 3, 2, 2, 'conv')
+    w, b = net.param()
+    original_output = net(input)
+    rep_output = F.conv2d(input, w, b, padding=1)
+    torch.set_printoptions(precision=20)
+    print(original_output[-1][-1][-1][-1])
+    print(rep_output[-1][-1][-1][-1])

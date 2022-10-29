@@ -1,0 +1,9 @@
+{
+    "n_feats": 64,
+    "res_scale": 1.0,
+    "act": "relu",
+    "resume": "best",
+    "data_test": "B100",
+    "test_only": true,
+    "save_results": true
+}
