@@ -14,9 +14,5 @@ We select [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and [Flickr2K](http
 ### Configs
 Basic training and testing configs could be adjusted in *configs/plain.json*. For specifc model, you could customize it in *configs/{model}.json*. 
 
-### Training
-You could directly training it on [EDSR(Pytorch)](https://github.com/sanghyun-son/EDSR-PyTorch). The definations of parameters in *configs* are the same as them. Thanks for their pioneering work.
-
-
 
 
