@@ -2,7 +2,7 @@
 
 This repository is for WFPN introduced in the following paper
 
-**Minghao Fu**, Dongyang Zhang, Min Lei, Kun He, Changyu Li, and Jie Shao, *Wide Feature Projection with Fast and Memory-Economic Attention for Efficient Image Super-Resolution*, BMVC 2022, [[Paper]](...)
+**Minghao Fu**, Dongyang Zhang, Min Lei, Kun He, Changyu Li, and Jie Shao, *Wide Feature Projection with Fast and Memory-Economic Attention for Efficient Image Super-Resolution*, BMVC 2022, [[Paper]](https://bmvc2022.mpi-inf.mpg.de/0615.pdf)
 
 This code is tested on Ubuntu 16.04.6 LTS environment (Python 3.7.11, Pytorch 1.7.1, CUDA 9.0, cuDNN 7.0.5) with TITAN RTX GPU.
 
