@@ -61,14 +61,14 @@ Table 2: Performance comparison on benchmark datasets. Number of model parameter
   <img src="imgs/efficiency.png" alt="Efficiency Comparison" width="90%">
 </p>
 <p align="center">
-Figure 2: Visual results on Set14 and B100 for ×4 upscaling.
+Table 3: Visual results on Set14 and B100 for ×4 upscaling.
 </p>
 
 <p align="center">
   <img src="imgs/visual.png" alt="Visual Comparison" width="90%">
 </p>
 <p align="center">
-Table 3: Efficiency comparison for ×4 upscaling.
+Figure 2: Visual results on Set14 and B100 for ×4 upscaling.
 </p>
 
 ## License
