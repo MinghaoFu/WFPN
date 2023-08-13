@@ -6,7 +6,7 @@
 **Minghao Fu**, Dongyang Zhang, Min Lei, Kun He, Changyu Li, Jie Shao
 
 <p align="center">
-    <img src="imgs/network.png" alt="WFPN" width="80%">
+    <img src="imgs/network.png" alt="WFPN" width="90%">
 </p>
 <p align="center">
 Figure 1: Network architecture of the proposed Wide Feature Projection Network (WFPN). 
@@ -44,21 +44,21 @@ For specifc model, you could customize it in ```./configs/{model}.json```
 ## Main Results
 
 <p align="center">
-  <img src="imgs/equation.png" alt="Sturctural Reparameterization" width="40%">
+  <img src="imgs/equation.png" alt="Sturctural Reparameterization" width="90%">
 </p>
 <p align="center">
   Equation 6: Explain how to represent WFP by merging different convolution kernels. 
 </p>
 
 <p align="center">
-  <img src="imgs/performance.png" alt="Performance Comparison" width="60%">
+  <img src="imgs/performance.png" alt="Performance Comparison" width="90%">
 </p>
 <p align="center">
 Table 2: Performance comparison on benchmark datasets. Number of model parameters is computed on ×4 task. Red indicates the best and blue indicates the second best. 
 </p>
 
 <p align="center">
-  <img src="imgs/efficiency.png" alt="Efficiency Comparison" width="60%">
+  <img src="imgs/efficiency.png" alt="Efficiency Comparison" width="90%">
 </p>
 <p align="center">
 Table 3: Efficiency comparison for ×4 upscaling.
